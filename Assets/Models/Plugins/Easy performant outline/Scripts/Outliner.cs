@@ -489,7 +489,7 @@ namespace EPOOutline
             handle = newHandle(width, height, parameters);
             handle.SetCustomHandleProperties(new RTHandleProperties() { currentRenderTargetSize = new Vector2Int(width, height) });
         }
-
+        
         private void PrepareParameters(OutlineParameters parametersToPrepare, Camera cameraToUse, bool editorCamera)
         {
             parametersToPrepare.RTHandlePool.ReleaseAll();

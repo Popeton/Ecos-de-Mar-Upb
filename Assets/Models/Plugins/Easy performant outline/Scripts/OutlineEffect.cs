@@ -204,6 +204,8 @@ namespace EPOOutline
         public static void SetupOutline(OutlineParameters parameters)
         {
             parameters.Buffer.SetRenderTarget(parameters.Handles.Target, -1);
+            parameters.Buffer.ClearRenderTarget(true, true, Color.clear);
+
             parameters.Buffer.SetGlobalVector(ScaleHash, parameters.Scale);
             PrepareTargets(parameters);
             InitMaterials();
@@ -213,8 +215,6 @@ namespace EPOOutline
             
             var eyeDepthSlice = RenderTargetUtility.GetDepthSliceForEye(parameters.EyeMask);
 
-            parameters.Buffer.ClearRenderTarget(true, true, Color.clear);
-            
             parameters.Buffer.SetRenderTarget(parameters.Handles.PrimaryTarget, -1);
             parameters.Buffer.ClearRenderTarget(true, true, Color.clear);
             
@@ -346,8 +346,6 @@ namespace EPOOutline
                             parameters.DilateShift);
             }
 
-            parameters.Buffer.SetRenderTarget(parameters.Handles.Target, parameters.DepthTarget, eyeDepthSlice);
-            parameters.Buffer.ClearRenderTarget(false, true, Color.clear);
             parameters.Buffer.SetViewport(parameters.Viewport);
 
             if (drawnOutlinablesCount > 0)
@@ -361,9 +359,7 @@ namespace EPOOutline
                     parameters.BlurShift);
             }
 
-            parameters.Buffer.SetGlobalInt(ComparisonHash, (int)CompareFunction.NotEqual);
-            parameters.Buffer.SetGlobalInt(ReadMaskHash, 255);
-            parameters.Buffer.SetGlobalInt(OperationHash, (int)StencilOp.Replace);
+            parameters.Buffer.SetGlobalTexture(Shader.PropertyToID("_Mask"),  parameters.Handles.Target);
 
             Blit(parameters, 
                 parameters.Handles.PrimaryTarget, 

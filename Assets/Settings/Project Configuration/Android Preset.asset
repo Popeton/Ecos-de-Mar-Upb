@@ -13,6 +13,19 @@ MonoBehaviour:
   m_Name: EPO Feature
   m_EditorClassIdentifier: 
   m_Active: 1
+--- !u!114 &-7609404218591919872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e08169d2386254fdc9764f667e790dde, type: 3}
+  m_Name: Caustics
+  m_EditorClassIdentifier: 
+  m_Active: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32,7 +45,8 @@ MonoBehaviour:
   - {fileID: 48025603807810979}
   - {fileID: 8067282708507445142}
   - {fileID: -9105667716646660691}
-  m_RendererFeatureMap: a395163f089faa0096c73c8fe1bef46f
+  - {fileID: -7609404218591919872}
+  m_RendererFeatureMap: a395163f089faa0096c73c8fe1bef46f004178f62df76596
   m_UseNativeRenderPass: 1
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}

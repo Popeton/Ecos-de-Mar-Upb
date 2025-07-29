@@ -7,17 +7,15 @@
 
         Pass
         {
-            Stencil 
+        	Stencil 
             {
-                Ref [_OutlineRef]
-                Comp [_Comparison]
-                Pass [_Operation]
+                Ref 255
+                Comp NotEqual
+                Pass Replace
                 ZFail Keep
                 Fail Keep
-                ReadMask [_ReadMask]
-                WriteMask 255
             }
-
+        	
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
@@ -49,6 +47,10 @@
             UNITY_DECLARE_SCREENSPACE_TEXTURE(_MainTex);
             half4 _MainTex_ST;
             half4 _MainTex_TexelSize;
+            
+            UNITY_DECLARE_SCREENSPACE_TEXTURE(_Mask);
+            half4 _Mask_ST;
+            half4 _Mask_TexelSize;
 
             UNITY_DECLARE_SCREENSPACE_TEXTURE(_InitialTex);
             half4 _InitialTex_ST;
@@ -77,12 +79,31 @@
 
                 return o;
             }
+
+            inline float GetSampleValue(float2 uv)
+			{
+				float result = 0.0f;
+			    for (float x = -1.0f; x <= 1.0f; x++)
+			    {
+			        for (float y = -1.0f; y <= 1.0f; y++)
+				    {
+						result += FetchTexelAtFrom(_Mask, uv + float2(x, y) * _Mask_TexelSize.xy, _Mask_ST).a > 0.0f;
+				    }
+			    }
+
+				return result > 8.0f;
+			}
             
             half4 frag (v2f i) : SV_Target
             {
                 UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(i);
 
-                return FetchTexel(i.uv.xy / i.uv.w);
+                float2 uv = i.uv.xy / i.uv.w;
+                
+                float4 texel = FetchTexel(uv);
+            	float mask = GetSampleValue(uv);
+
+                return texel * (1.0f - mask);
             }
             ENDCG
         }

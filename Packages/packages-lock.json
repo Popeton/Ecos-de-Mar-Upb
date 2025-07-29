@@ -433,6 +433,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "dev.ameye.caustics": {
+      "version": "file:dev.ameye.caustics",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
