@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 7487dbb413030ea4395c0e185005a55a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3a0b0835d1240478924531e1cc0e74
+      internalID: -432793058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f168fd6dd6f34b87d5de9367b442a
+      internalID: -1352734799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_2
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ee27ee7c950341a054aaaca6aad1e
+      internalID: -322001905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_3
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c130e76284ef5334fb1dbe44ba517764
+      internalID: 1076939332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_4
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9976c1aca09141742b99ae1abb69c4dd
+      internalID: -1752795322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_5
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446808d4c6c7fd24998a2114b8dd772c
+      internalID: 1304492070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb7c4ad6b2a8146bc5c3a5b9f4f37c
+      internalID: -329003180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64bedea3704fb4479b50a717f33540b
+      internalID: -984543819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b1c7e0dc5fca2498c64781654bac2e
+      internalID: -1432126150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_9
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eceaaf1a5882b14d800d326efaf6b85
+      internalID: 1475418228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_10
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf422b067663c1b4395a3f57a0ddfc04
+      internalID: -480960890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_11
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e95402158d9340ae657ea6dbf7d8e
+      internalID: 452084110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f44d8a119a85a4f8032f0166bd196c
+      internalID: -815435374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87c618885f63d4bb8cc99107af2cd7
+      internalID: 1040087381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a053842de6a28b45b758784cf3db3fc
+      internalID: -1764885354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_15
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5998364b7c3f4418d034a61dac4b35
+      internalID: 838615752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_16
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a2051ae9327b40ba9f3ecc2c4202c
+      internalID: -1247889848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_17
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758e35bfef11db4495f00dfa9ae9b18
+      internalID: -1441168894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5085f8279f046d43a8664fc1fb18085
+      internalID: 2143211229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a7953f81f7f87438ba93fdf567b42d
+      internalID: -1185824478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_20
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62985b18b57247499e91d004cfeff8a
+      internalID: -1441959666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_21
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648fda027ea92243b3bbecec48e881c
+      internalID: 1647584053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_22
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01615d836daae74c8f1b1bfa3028b82
+      internalID: 43772166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_23
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc424c76e6f5c4e9bcb797848630c5
+      internalID: -1256861092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60011d783c84e684b945bc668bf8751b
+      internalID: 2121849650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fce6e6725e978479eae51bc110771b
+      internalID: 1749999952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_26
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97968c21516010945bf4b6435a27fade
+      internalID: 238168740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_27
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa299e84121e134da5bd1c1e04ad2c1
+      internalID: -1898081541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_28
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c420366fa1df2a4cbdb1a665e7e9921
+      internalID: -1901015061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_29
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8f58411e5140c47a6d9dae85dac7cb
+      internalID: -2019484789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8326ccf4e40c4f92d2a4c8d400c88
+      internalID: -1125343280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee785e19f24e3f4bb608c5d4da9e2ff
+      internalID: 107519027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929a30ab15c2ec41be658f7a7a352ce
+      internalID: 288246404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_33
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfcff0f673069f4e839e150712927f4
+      internalID: 638548976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_34
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e71a907d595d84c9774ba26139ef98
+      internalID: 2124066474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CACHALOTE_SPRITE0.75X_35
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cff2d9a87646fa419fbbfb2c5f61703
+      internalID: 1390012649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 584b10d817101644b91b8f9eae173012
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CACHALOTE_SPRITE0.75X_0: -432793058
+      CACHALOTE_SPRITE0.75X_1: -1352734799
+      CACHALOTE_SPRITE0.75X_10: -480960890
+      CACHALOTE_SPRITE0.75X_11: 452084110
+      CACHALOTE_SPRITE0.75X_12: -815435374
+      CACHALOTE_SPRITE0.75X_13: 1040087381
+      CACHALOTE_SPRITE0.75X_14: -1764885354
+      CACHALOTE_SPRITE0.75X_15: 838615752
+      CACHALOTE_SPRITE0.75X_16: -1247889848
+      CACHALOTE_SPRITE0.75X_17: -1441168894
+      CACHALOTE_SPRITE0.75X_18: 2143211229
+      CACHALOTE_SPRITE0.75X_19: -1185824478
+      CACHALOTE_SPRITE0.75X_2: -322001905
+      CACHALOTE_SPRITE0.75X_20: -1441959666
+      CACHALOTE_SPRITE0.75X_21: 1647584053
+      CACHALOTE_SPRITE0.75X_22: 43772166
+      CACHALOTE_SPRITE0.75X_23: -1256861092
+      CACHALOTE_SPRITE0.75X_24: 2121849650
+      CACHALOTE_SPRITE0.75X_25: 1749999952
+      CACHALOTE_SPRITE0.75X_26: 238168740
+      CACHALOTE_SPRITE0.75X_27: -1898081541
+      CACHALOTE_SPRITE0.75X_28: -1901015061
+      CACHALOTE_SPRITE0.75X_29: -2019484789
+      CACHALOTE_SPRITE0.75X_3: 1076939332
+      CACHALOTE_SPRITE0.75X_30: -1125343280
+      CACHALOTE_SPRITE0.75X_31: 107519027
+      CACHALOTE_SPRITE0.75X_32: 288246404
+      CACHALOTE_SPRITE0.75X_33: 638548976
+      CACHALOTE_SPRITE0.75X_34: 2124066474
+      CACHALOTE_SPRITE0.75X_35: 1390012649
+      CACHALOTE_SPRITE0.75X_4: -1752795322
+      CACHALOTE_SPRITE0.75X_5: 1304492070
+      CACHALOTE_SPRITE0.75X_6: -329003180
+      CACHALOTE_SPRITE0.75X_7: -984543819
+      CACHALOTE_SPRITE0.75X_8: -1432126150
+      CACHALOTE_SPRITE0.75X_9: 1475418228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

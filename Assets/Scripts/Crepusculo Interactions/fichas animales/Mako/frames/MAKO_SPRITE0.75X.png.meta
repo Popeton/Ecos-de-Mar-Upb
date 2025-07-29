@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: a2044b10d7b9556429a39dda2ae5fe48
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829af43b732a34648a4a1ddfe64c28e9
+      internalID: 1417109425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef2964be9d8f34e9ead02f0a3ded9d
+      internalID: -686577639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_2
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f45f6e0990e0a40a53b159f1894b97
+      internalID: -1382973308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_3
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4ea61359de4543acd224a67619016
+      internalID: 1451740314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_4
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75cba65f3e710448a862e9cd2a6b05
+      internalID: 1098145230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_5
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4da6bfed8b4104986750fd0573b6a9
+      internalID: -1719334343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dc2f30888c62d46ae62ec57e146b83
+      internalID: -1408189266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb007da53dfd047bb209e6bfdfbee1
+      internalID: 918045688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1061e60a952c4f149aebbbb480873497
+      internalID: 1051239425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_9
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1901298c22c08444b426b0531e79087
+      internalID: -1758606323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_10
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ea8977f1585946b68278350bce75d
+      internalID: 541793729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_11
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150d5bc314be694795bd7a7eda327fd
+      internalID: -797103414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f39029144ce3f9458d8fb5f65d36ae5
+      internalID: -1550484750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996801ad3d59b0941af2783e21406782
+      internalID: -63128927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f344a9ae9b09043854ecbe74b13610
+      internalID: -1608850273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_15
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d55d41a9995444a85b2b8c8b4be370
+      internalID: 1765157663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_16
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e9ee07c2468d448b5a5f101fee7cd4
+      internalID: 1858717700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_17
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14877d3bece575446b3e00c692880587
+      internalID: -14230668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a62d4fa6ee874cba882afc0e41397
+      internalID: 1882982328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b828b242a2f354583b98568e43c215
+      internalID: -1444333635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_20
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25190347771267946a2ffdacbd47b7e1
+      internalID: 303046984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_21
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6148b78e8b6ded24693232652457dfad
+      internalID: 1158565850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_22
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7045ef812f97b7e44b6f1ce1dd0b84fe
+      internalID: 1621217264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_23
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dedc33795b478a4890869a910f04a66
+      internalID: 1962230309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a47f048d14dd148a542df447658d16
+      internalID: 486156724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02dfe21614a9843a11a55e298d5e70
+      internalID: 1172172827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_26
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baec7d7177ae474694579f075968933
+      internalID: -859151632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_27
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c879102c87f5a54f9d8729d7d2bcee0
+      internalID: -1424049510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_28
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770422b358e3b8408291998f5f11575
+      internalID: 2063952808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_29
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5025302a6ab0f47b2efd5e34819271
+      internalID: 1760310387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3333ec0f9cb5f443be0439d9dc74c79
+      internalID: -1881476985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6643f9454972034aa7c55632e95683a
+      internalID: -474797284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d8b669f659e86418cdb07c90c777eb
+      internalID: -1414664990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_33
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0add9d5adc2f24d8c310bf1c96d2fa
+      internalID: 155183149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_34
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e063fa6d5abf4148b86077e4772b25e
+      internalID: 994165011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAKO_SPRITE0.75X_35
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29d1afa943e6145ac591f4dafe9934
+      internalID: -281945293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 491e74f11c0cca84b88b3864b61003b3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MAKO_SPRITE0.75X_0: 1417109425
+      MAKO_SPRITE0.75X_1: -686577639
+      MAKO_SPRITE0.75X_10: 541793729
+      MAKO_SPRITE0.75X_11: -797103414
+      MAKO_SPRITE0.75X_12: -1550484750
+      MAKO_SPRITE0.75X_13: -63128927
+      MAKO_SPRITE0.75X_14: -1608850273
+      MAKO_SPRITE0.75X_15: 1765157663
+      MAKO_SPRITE0.75X_16: 1858717700
+      MAKO_SPRITE0.75X_17: -14230668
+      MAKO_SPRITE0.75X_18: 1882982328
+      MAKO_SPRITE0.75X_19: -1444333635
+      MAKO_SPRITE0.75X_2: -1382973308
+      MAKO_SPRITE0.75X_20: 303046984
+      MAKO_SPRITE0.75X_21: 1158565850
+      MAKO_SPRITE0.75X_22: 1621217264
+      MAKO_SPRITE0.75X_23: 1962230309
+      MAKO_SPRITE0.75X_24: 486156724
+      MAKO_SPRITE0.75X_25: 1172172827
+      MAKO_SPRITE0.75X_26: -859151632
+      MAKO_SPRITE0.75X_27: -1424049510
+      MAKO_SPRITE0.75X_28: 2063952808
+      MAKO_SPRITE0.75X_29: 1760310387
+      MAKO_SPRITE0.75X_3: 1451740314
+      MAKO_SPRITE0.75X_30: -1881476985
+      MAKO_SPRITE0.75X_31: -474797284
+      MAKO_SPRITE0.75X_32: -1414664990
+      MAKO_SPRITE0.75X_33: 155183149
+      MAKO_SPRITE0.75X_34: 994165011
+      MAKO_SPRITE0.75X_35: -281945293
+      MAKO_SPRITE0.75X_4: 1098145230
+      MAKO_SPRITE0.75X_5: -1719334343
+      MAKO_SPRITE0.75X_6: -1408189266
+      MAKO_SPRITE0.75X_7: 918045688
+      MAKO_SPRITE0.75X_8: 1051239425
+      MAKO_SPRITE0.75X_9: -1758606323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

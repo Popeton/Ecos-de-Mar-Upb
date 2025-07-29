@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc654bd1fa28d5469f58b604c4a6035, type: 3}
+  m_Name: Arrecife Subs
+  m_EditorClassIdentifier: 
+  subtitle:
+  - Bajo estas aguas cristalinas, los arrecifes de coral se despliegan como jardines
+    submarinos.
+  - Son un caleidoscopio de colores y formas.
+  - Los corales, con sus estructuras intrincadas, parecen esculturas vivientes,
+  - "cada una m\xE1s fascinante que la anterior."
+  - Algunos parecen cerebros amarillos,
+  - Otros se asemejan a cuernos de alce,
+  - "mientras que las pir\xE1mides suaves y balanceantes se alzan como monumentos
+    secretos"
+  - en mi vasto reino submarino.
+  - "En las noches de luna llena, un espect\xE1culo m\xE1gico se despliega bajo la
+    superficie."
+  - "Los corales, mis arquitectos silenciosos, comienzan su danza de reproducci\xF3n."
+  - "Liberan millones de larvas en sincron\xEDa perfecta,"
+  - creando una nube luminosa que se eleva hacia mi superficie.
+  - "Cada c\xE9lula busca unirse a su par en un abrazo c\xF3smico."
+  - "La luna ilumina el oc\xE9ano con su luz plateada,"
+  - haciendo que yo brille con intensidad.
+  - "As\xED, los corales, \xFAnicos animales que se pueden ver desde el espacio,"
+  - "viajan entre mis olas en b\xFAsqueda de su futuro hogar."
+  - "Formando gigantes estructuras que se extienden como venas a trav\xE9s del oc\xE9ano."
+  - Es por eso por lo que a mis arrecifes amurallados los he nombrado guardianes,
+  - por ser protectores de costas, sirviendo como un escudo natural
+  - para las comunidades costeras contra tormentas y olas.
+  - "Tambi\xE9n son el hogar de innumerables criaturas marinas."
+  - "La lora es uno de esos peces que vive aqu\xED."
+  - Por las noches duerme envuelta en un capullo seguro hecho de mucosidad.
+  - "Durante el d\xEDa, se alimenta de algas y corales."
+  - 'Es su acuerdo silencioso: los corales la alimentan y ella los cuida.'
+  - "Con los dientes dentro de su garganta y la ayuda de su \u201Cpico\u201D, la
+    lora descompone trozos de coral,"
+  - "convirti\xE9ndolos en arena blanca que sirve como cama para que las larvas de
+    coral se adhieran y crezcan."
+  - En tiempos de pesca, mis criaturas se ven obligadas a abandonar los arrecifes.
+  - "Surcan mis aguas huyendo de las redes que se extienden como telara\xF1as"
+  - y se enredan entre mis corales.
+  - La lora, testigo silenciosa de esta tragedia, intenta volver a los arrecifes,
+    ya blanqueados.
+  - "Sin corales que cuidar, sin algas ni peque\xF1os peces qu\xE9 comer,"
+  - "se alimenta de fragmentos de pl\xE1stico."
+  - Mi equilibrio se ha roto.
+  - "La lora, que es m\xE1s vida que muerte, sigue nadando"
+  - "e intenta sobrevivir hasta la pr\xF3xima pesca."

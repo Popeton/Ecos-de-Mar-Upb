@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 9088be2d0882eb741861b76a3dd4da98
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9baa0cf51563469e5cca2134864ba
+      internalID: -190433708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c86d80e7b4e8043b1c01948aea4a4c
+      internalID: 773367577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_2
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf085e6b76bb18418d519f2a7afd20d
+      internalID: -1791609613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_3
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8bb645bd78ba447abaab241a776519
+      internalID: -557366384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_4
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b4447941b73643b1eb4c0439e0764
+      internalID: -1864126368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_5
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac978783edff679488c4315b71452561
+      internalID: -1291153149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c828e1c565f0043a444b1decc949ff
+      internalID: -1250172961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f568c62d2ea2e949b4870a88dc5bf38
+      internalID: 1807680432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a243e275c6f8d294a9ac8e9df4160311
+      internalID: 1485313587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_9
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a49059a5300fe45aeaf6445b4d7e03
+      internalID: -2054892861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_10
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef637d6a159cec48a5cf5d9a4428ce2
+      internalID: -150706280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_11
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba6308209b2e5a4badd7c3a327f1824
+      internalID: -836488956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a62f4efb70304b9fad85882125f96
+      internalID: 1999631392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afa4ccdd520204448687ada60872d03
+      internalID: 970212410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d315c47dd9321f947b34672682b0abd4
+      internalID: -771756273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_15
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb73ee60fe1a1ea489cdad3ee87c9676
+      internalID: 1601962695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_16
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77446a6a7abe55942882097ff4f76de9
+      internalID: 4148969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_17
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef7a14387ff144ab5d05979d5b1542
+      internalID: -1081525003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d6f4d2924f534d86713414fc9d9d2
+      internalID: -1136797821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6c7d4e63248a8418d1f2be17059d57
+      internalID: -1664620622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_20
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0723c6f7f07064face47782ebb5219
+      internalID: -1006617088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_21
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513aeeff8559c2d4d99baf4df7263e24
+      internalID: 53802103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_22
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22f719c45bd91e4096f1906fa01fad2
+      internalID: -444531283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_23
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dcf12d267a42345a0f45019dc3bee3
+      internalID: 1916445817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da37bac1be9ee647a0197d90bbb3e2c
+      internalID: 434884139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebde95370d061040b1216feeccacbea
+      internalID: -1156867868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_26
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea6879a7e11c66429f10f91115ab205
+      internalID: -917009885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_27
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4806b31899071346a23c4cbcd684488
+      internalID: 316923510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_28
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c7f191c30e2784d994560d98d3aaca
+      internalID: -1621461475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_29
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a62033777c9c54a9c0e08facb21c6b
+      internalID: 878941462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1be32742b81784daac96936917cac8
+      internalID: -246632284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d97d371f84bc114996b3f676e1c4a06
+      internalID: -267946882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41904efd29f942b4086b53670c1177c5
+      internalID: -900371898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_33
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0776b3c8bd8d4489f3c9d560d3fa4
+      internalID: 172153777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_34
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44dfbe53e21a9f43b36163938aa7ddf
+      internalID: -2128567419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LINTERNILLA_SPRITE0.75X_35
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e84864109b7d9c43ae85415da9777ee
+      internalID: 1878120095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 038c5b71597cdea4ca0941ca129267c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LINTERNILLA_SPRITE0.75X_0: -190433708
+      LINTERNILLA_SPRITE0.75X_1: 773367577
+      LINTERNILLA_SPRITE0.75X_10: -150706280
+      LINTERNILLA_SPRITE0.75X_11: -836488956
+      LINTERNILLA_SPRITE0.75X_12: 1999631392
+      LINTERNILLA_SPRITE0.75X_13: 970212410
+      LINTERNILLA_SPRITE0.75X_14: -771756273
+      LINTERNILLA_SPRITE0.75X_15: 1601962695
+      LINTERNILLA_SPRITE0.75X_16: 4148969
+      LINTERNILLA_SPRITE0.75X_17: -1081525003
+      LINTERNILLA_SPRITE0.75X_18: -1136797821
+      LINTERNILLA_SPRITE0.75X_19: -1664620622
+      LINTERNILLA_SPRITE0.75X_2: -1791609613
+      LINTERNILLA_SPRITE0.75X_20: -1006617088
+      LINTERNILLA_SPRITE0.75X_21: 53802103
+      LINTERNILLA_SPRITE0.75X_22: -444531283
+      LINTERNILLA_SPRITE0.75X_23: 1916445817
+      LINTERNILLA_SPRITE0.75X_24: 434884139
+      LINTERNILLA_SPRITE0.75X_25: -1156867868
+      LINTERNILLA_SPRITE0.75X_26: -917009885
+      LINTERNILLA_SPRITE0.75X_27: 316923510
+      LINTERNILLA_SPRITE0.75X_28: -1621461475
+      LINTERNILLA_SPRITE0.75X_29: 878941462
+      LINTERNILLA_SPRITE0.75X_3: -557366384
+      LINTERNILLA_SPRITE0.75X_30: -246632284
+      LINTERNILLA_SPRITE0.75X_31: -267946882
+      LINTERNILLA_SPRITE0.75X_32: -900371898
+      LINTERNILLA_SPRITE0.75X_33: 172153777
+      LINTERNILLA_SPRITE0.75X_34: -2128567419
+      LINTERNILLA_SPRITE0.75X_35: 1878120095
+      LINTERNILLA_SPRITE0.75X_4: -1864126368
+      LINTERNILLA_SPRITE0.75X_5: -1291153149
+      LINTERNILLA_SPRITE0.75X_6: -1250172961
+      LINTERNILLA_SPRITE0.75X_7: 1807680432
+      LINTERNILLA_SPRITE0.75X_8: 1485313587
+      LINTERNILLA_SPRITE0.75X_9: -2054892861
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

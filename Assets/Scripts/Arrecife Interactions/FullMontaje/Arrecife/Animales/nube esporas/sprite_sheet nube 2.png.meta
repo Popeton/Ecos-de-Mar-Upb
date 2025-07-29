@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: dcd8257e70a247c488e32d6d7ac87289
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3356
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3223500a83a1f43b45f0c0649f99b7
+      internalID: 2049733455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_1
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 3356
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bc2361eb447454c833804dbc8a603a
+      internalID: -1674650464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_2
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 3356
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e11a3a0b90d684fb7a398d24f599ae
+      internalID: 739026916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_3
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 3356
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7165a22c5617f3f4d826a65bbf4e7730
+      internalID: 558320324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_4
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 3356
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9c2caa78290104f8c945ddda667bf8
+      internalID: -1701354469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_5
+      rect:
+        serializedVersion: 2
+        x: 5285
+        y: 3356
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4161b18d2d9f934ab4434a51e2531b7
+      internalID: -1394717056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2517
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc14a0e887ae504188902bcad3afc09
+      internalID: 327227316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2517
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99bffd64a0b83468997aa3030b773b
+      internalID: 772301883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_8
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2517
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f822fb54b64fd4aab615e7f34e3e87
+      internalID: -1249565220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_9
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 2517
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443b6051c6a6d4408977caa0d0369d5
+      internalID: -1328858948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_10
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 2517
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949b0b790f589674b9dbeb4422fdb921
+      internalID: 1525261936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_11
+      rect:
+        serializedVersion: 2
+        x: 5285
+        y: 2517
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8ccc7e79684e74982f0f9f9573f426
+      internalID: 759302563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1678
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b99f5c3b9a3ab4daf8e1c6f62e023b
+      internalID: -901317925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_13
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1678
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512aee2442758f40be6ae3852eeb4e3
+      internalID: -880557473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_14
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1678
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7536529886696774b99d9cb36ac93168
+      internalID: 388195882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_15
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 1678
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3d8a992b0bc88409cece98a6fd3ba4
+      internalID: -328346910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_16
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 1678
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99e91c723a33a44c9995de332cc086e
+      internalID: 1026319410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_17
+      rect:
+        serializedVersion: 2
+        x: 5285
+        y: 1678
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8f69dcaa00d3b45957ca31fc25d5f1
+      internalID: 1525057017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 839
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac8872c95ace9243857e20b4fa98186
+      internalID: -2015655986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_19
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 839
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86644f7cf9919e64b8ee58c46ef54e0b
+      internalID: -284679290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_20
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 839
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be21ffb761f355408287c74eaaf181e
+      internalID: -1079980415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_21
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 839
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c3cf858df3cb4abfe6867b7679b36
+      internalID: -1176471040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_22
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 839
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0bc973625b884aa01f79cd1d91287
+      internalID: 2139661253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_23
+      rect:
+        serializedVersion: 2
+        x: 5285
+        y: 839
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b61e9109174e4a94121df084df6e5
+      internalID: -1213076065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c924f4d8f7938459fb6e00e0bcdf66
+      internalID: 1870827792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_25
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec85d6059053642873345ce48df65f
+      internalID: 1571506007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_26
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 0
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8704643b476df468e5fe4ac38598a8
+      internalID: -2062036773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_sheet nube 2_27
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 0
+        width: 1057
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f235af29a7f240a9d52d2a6e28f93
+      internalID: -654605391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3f46bca50c00d24daeccaf64694156a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite_sheet nube 2_0: 2049733455
+      sprite_sheet nube 2_1: -1674650464
+      sprite_sheet nube 2_10: 1525261936
+      sprite_sheet nube 2_11: 759302563
+      sprite_sheet nube 2_12: -901317925
+      sprite_sheet nube 2_13: -880557473
+      sprite_sheet nube 2_14: 388195882
+      sprite_sheet nube 2_15: -328346910
+      sprite_sheet nube 2_16: 1026319410
+      sprite_sheet nube 2_17: 1525057017
+      sprite_sheet nube 2_18: -2015655986
+      sprite_sheet nube 2_19: -284679290
+      sprite_sheet nube 2_2: 739026916
+      sprite_sheet nube 2_20: -1079980415
+      sprite_sheet nube 2_21: -1176471040
+      sprite_sheet nube 2_22: 2139661253
+      sprite_sheet nube 2_23: -1213076065
+      sprite_sheet nube 2_24: 1870827792
+      sprite_sheet nube 2_25: 1571506007
+      sprite_sheet nube 2_26: -2062036773
+      sprite_sheet nube 2_27: -654605391
+      sprite_sheet nube 2_28: 289447143
+      sprite_sheet nube 2_29: -1507389622
+      sprite_sheet nube 2_3: 558320324
+      sprite_sheet nube 2_4: -1701354469
+      sprite_sheet nube 2_5: -1394717056
+      sprite_sheet nube 2_6: 327227316
+      sprite_sheet nube 2_7: 772301883
+      sprite_sheet nube 2_8: -1249565220
+      sprite_sheet nube 2_9: -1328858948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

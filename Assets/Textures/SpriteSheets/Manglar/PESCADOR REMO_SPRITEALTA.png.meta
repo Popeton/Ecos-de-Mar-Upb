@@ -1,0 +1,1359 @@
+fileFormatVersion: 2
+guid: 5012f6a52b0714c4c9bdcd37bda346b9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0510990d19ff254790beafdf6bed088
+      internalID: 1442103416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_1
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea291266d3590f4283a1db4607c4b33
+      internalID: -1792072609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_2
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0ad16ca1d4e78478fcc670e6070862
+      internalID: -1118394810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_3
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540dba3d97a13a748a07e6417f0d0a46
+      internalID: -712791289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_4
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a5dc4482e20544af35efa5087a9e7
+      internalID: -2132322955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_5
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63457c6e3cf58d844aca5862e790420d
+      internalID: -1194210393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_6
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a622176011a2e8b4f9dc10c507afdc63
+      internalID: 995536728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_7
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7befa8ce3f0948a8329faf671adbc
+      internalID: -2124260855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_8
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b6eb5d90ea9e4786486395bd74cfb
+      internalID: 1394437307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_9
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 9600
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d372731018bd48827452b5b833f84
+      internalID: -1069757954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122fa8497f03dd946921bafe0af64d54
+      internalID: 1041600020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480e42c225e264e45957be1517c0f0ff
+      internalID: -613849586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b760e313f7d14d4195a9705f90f4e8b
+      internalID: -1227681878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0116dcbdb78d742941118d3dcdf143
+      internalID: 967051927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772829620cbd186459e7a836d0509909
+      internalID: 62355487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_15
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a4bbc6dbd901840a4adedbf7e33fe6
+      internalID: 1926703434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_16
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d566744e694d7f049af29be648c24e60
+      internalID: 1219023814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_17
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d33d0eb1047d45b6ac23ea29553a1
+      internalID: -1955515946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_18
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2812a21994f4a43ad44dc542cae516
+      internalID: 1001969569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_19
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 7680
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bacc3172fcfed4cacc8c1b9f12b043
+      internalID: 411293761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59788b6ff81190e4aba6dd67c9b7ef03
+      internalID: -1891939824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba33cd7e9222ce84e9401644a58cf140
+      internalID: 1087927754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb74db85868b2140bdf6f5b92305797
+      internalID: 576829617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_23
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ea92a231ad9c848bb7bb75c7d2e26e
+      internalID: -1989777028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_24
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fcb9b63555a8541b70ebb53f957c9a
+      internalID: -777609135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_25
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951cdaf709560b54eaa7444edcbd907b
+      internalID: -474125058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_26
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3468edb357370848b78e63fe9ab7e02
+      internalID: 644810255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_27
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af3953b9ae97db429064bb5e2d96587
+      internalID: -2127418083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_28
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d793c419a108d8488c932ae352fa9c3
+      internalID: -624096393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_29
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 5760
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627c0027cc46de948bfddcd10b33d516
+      internalID: 1801562794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d512441aad7fc1f4a9f9061c3bd2b5eb
+      internalID: 1925587402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3047650435c464d930370f499c6066
+      internalID: 837784144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc32e6ece4cd684c827bd93f8308389
+      internalID: 1603843254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_33
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c133b57d606ba4d83c95fe71cc3ed1
+      internalID: 1241073794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_34
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a06595537e3349bfdf0fb7ed89c72
+      internalID: -1309289994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_35
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069fb0145cd6a85488847f11359a3ee3
+      internalID: 21607174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_36
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da53596a3521c42aff601da446a3a9
+      internalID: 606212403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_37
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326cf58cfeb772a44b90d736dc5e2583
+      internalID: -1465653567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_38
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c9b6e1bac0ff84fa8616048879f39b
+      internalID: -1458645232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_39
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 3840
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683fa736e05606840b7b1d31e485242a
+      internalID: 1986162942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242686e325c326b478a3ce5a0ffb4646
+      internalID: 1943778131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd3948c095bd1459b70f7ab2739e2b
+      internalID: -1798963827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ba7a75c82d9545b6858fbff69f520
+      internalID: 1825828878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_43
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec0359ed5dd86418d0881867bd2a14
+      internalID: 785001659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_44
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba98b35a4b0999499bb87221e945f50
+      internalID: 285736886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_45
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af5e488b6481404c96d05d0966f1236
+      internalID: -420369782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_46
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31bdf96e806524e8fd28793343b7d4
+      internalID: 1435842792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_47
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4404bac7d8009445a72704d90eddf8e
+      internalID: -1009837596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_48
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6664bb45403fed44baf357bf5c4fc8ae
+      internalID: 1412200368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_49
+      rect:
+        serializedVersion: 2
+        x: 13500
+        y: 1920
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ddd8d6f638c54287641242baaf10c
+      internalID: 377441461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef974cf89944f3478829de87537c506
+      internalID: -2032491640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_51
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d7e3de481bba54497da1797ad4965e
+      internalID: -1924786525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_52
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dfbf466114ac04c9c54e45577ac91c
+      internalID: 2084238739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0177e516bdf2013468649643f1f7b1ec
+      internalID: 2129640554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598bf5630ccf4334badb9493b008dc6e
+      internalID: 218478645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PESCADOR REMO_SPRITEALTA_55
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 1500
+        height: 1920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9721b9c2c5571224ea1800471bd1b455
+      internalID: -7744706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a844cd53fbf3464492409eb78f4b353
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PESCADOR REMO_SPRITEALTA_0: 1442103416
+      PESCADOR REMO_SPRITEALTA_1: -1792072609
+      PESCADOR REMO_SPRITEALTA_10: 1041600020
+      PESCADOR REMO_SPRITEALTA_11: -613849586
+      PESCADOR REMO_SPRITEALTA_12: -1227681878
+      PESCADOR REMO_SPRITEALTA_13: 967051927
+      PESCADOR REMO_SPRITEALTA_14: 62355487
+      PESCADOR REMO_SPRITEALTA_15: 1926703434
+      PESCADOR REMO_SPRITEALTA_16: 1219023814
+      PESCADOR REMO_SPRITEALTA_17: -1955515946
+      PESCADOR REMO_SPRITEALTA_18: 1001969569
+      PESCADOR REMO_SPRITEALTA_19: 411293761
+      PESCADOR REMO_SPRITEALTA_2: -1118394810
+      PESCADOR REMO_SPRITEALTA_20: -1891939824
+      PESCADOR REMO_SPRITEALTA_21: 1087927754
+      PESCADOR REMO_SPRITEALTA_22: 576829617
+      PESCADOR REMO_SPRITEALTA_23: -1989777028
+      PESCADOR REMO_SPRITEALTA_24: -777609135
+      PESCADOR REMO_SPRITEALTA_25: -474125058
+      PESCADOR REMO_SPRITEALTA_26: 644810255
+      PESCADOR REMO_SPRITEALTA_27: -2127418083
+      PESCADOR REMO_SPRITEALTA_28: -624096393
+      PESCADOR REMO_SPRITEALTA_29: 1801562794
+      PESCADOR REMO_SPRITEALTA_3: -712791289
+      PESCADOR REMO_SPRITEALTA_30: 1925587402
+      PESCADOR REMO_SPRITEALTA_31: 837784144
+      PESCADOR REMO_SPRITEALTA_32: 1603843254
+      PESCADOR REMO_SPRITEALTA_33: 1241073794
+      PESCADOR REMO_SPRITEALTA_34: -1309289994
+      PESCADOR REMO_SPRITEALTA_35: 21607174
+      PESCADOR REMO_SPRITEALTA_36: 606212403
+      PESCADOR REMO_SPRITEALTA_37: -1465653567
+      PESCADOR REMO_SPRITEALTA_38: -1458645232
+      PESCADOR REMO_SPRITEALTA_39: 1986162942
+      PESCADOR REMO_SPRITEALTA_4: -2132322955
+      PESCADOR REMO_SPRITEALTA_40: 1943778131
+      PESCADOR REMO_SPRITEALTA_41: -1798963827
+      PESCADOR REMO_SPRITEALTA_42: 1825828878
+      PESCADOR REMO_SPRITEALTA_43: 785001659
+      PESCADOR REMO_SPRITEALTA_44: 285736886
+      PESCADOR REMO_SPRITEALTA_45: -420369782
+      PESCADOR REMO_SPRITEALTA_46: 1435842792
+      PESCADOR REMO_SPRITEALTA_47: -1009837596
+      PESCADOR REMO_SPRITEALTA_48: 1412200368
+      PESCADOR REMO_SPRITEALTA_49: 377441461
+      PESCADOR REMO_SPRITEALTA_5: -1194210393
+      PESCADOR REMO_SPRITEALTA_50: -2032491640
+      PESCADOR REMO_SPRITEALTA_51: -1924786525
+      PESCADOR REMO_SPRITEALTA_52: 2084238739
+      PESCADOR REMO_SPRITEALTA_53: 2129640554
+      PESCADOR REMO_SPRITEALTA_54: 218478645
+      PESCADOR REMO_SPRITEALTA_55: -7744706
+      PESCADOR REMO_SPRITEALTA_6: 995536728
+      PESCADOR REMO_SPRITEALTA_7: -2124260855
+      PESCADOR REMO_SPRITEALTA_8: 1394437307
+      PESCADOR REMO_SPRITEALTA_9: -1069757954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

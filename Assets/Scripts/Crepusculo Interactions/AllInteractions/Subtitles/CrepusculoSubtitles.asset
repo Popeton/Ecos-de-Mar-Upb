@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc654bd1fa28d5469f58b604c4a6035, type: 3}
+  m_Name: CrepusculoSubtitles
+  m_EditorClassIdentifier: 
+  subtitle:
+  - "A medida que desciendo, donde los rayos solares a\xFAn acarician mis aguas superficiales,"
+  - me adentro en un reino misterioso y menos conocido.
+  - "Aqu\xED, entre los 200 y los 1000 metros de profundidad,"
+  - me encuentro en un espacio intermedio,
+  - "donde la transici\xF3n entre el d\xEDa y la noche"
+  - "se convierte en un espect\xE1culo continuo de ocaso y anochecer."
+  - "El fitoplancton, diminuto y tenaz, se refugia en mis sombras durante el d\xEDa."
+  - Asciende al caer la noche,
+  - "llevando consigo el ox\xEDgeno que respira la Madre Tierra."
+  - "Los seres que aqu\xED habitan, muchos de ellos parecidos a fantasmas,"
+  - son los protagonistas de un ciclo vital inexplorado,
+  - "una migraci\xF3n diaria que es la mayor de la Tierra."
+  - "A estas profundidades, la luz solar se vuelve insuficiente para la fotos\xEDntesis,"
+  - "y la oscuridad se cierne sobre m\xED."
+  - En esta penumbra, criaturas extraordinarias,
+  - "de tama\xF1os microsc\xF3picos hasta algunas de las m\xE1s grandes del planeta,"
+  - habitan y se adaptan a la oscuridad,
+  - "sostenedores de una red tr\xF3fica que regula el clima del mundo."
+  - "Los peces luci\xE9rnaga parecen destellos de sue\xF1os en la oscuridad."
+  - "Mientras las medusas flotan gr\xE1cilmente en esta regi\xF3n."
+  - Estas criaturas, en su danza luminosa, comunican y cazan,
+  - convirtiendo la penumbra en un baile de luces.
+  - "Aqu\xED, donde la temperatura se mantiene cerca del punto de congelaci\xF3n"
+  - "y la presi\xF3n es un susurro de titanes,"
+  - un canto profundo empuja hacia el fondo, donde los secretos se hunden.
+  - "Los habitantes parecen sacados de un cuento de ciencia ficci\xF3n."
+  - Con una rica biodiversidad que, hasta ahora,
+  - ha permanecido fuera del alcance de la pesca comercial
+  - y de las leyes que rigen la alta mar.
+  - En esta belleza oscura y misteriosa,
+  - la vida brota como estrellas en un cielo sin luna.

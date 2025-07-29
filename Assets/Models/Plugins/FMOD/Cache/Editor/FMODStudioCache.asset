@@ -1,0 +1,4114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8951864385403868468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Crepusculo Loop
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Crepusculo Loop
+  Guid:
+    Data1: 154625482
+    Data2: 1119855482
+    Data3: -768230473
+    Data4: 693325153
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 55000
+--- !u!114 &-8595864446827839400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Basura
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Basura
+  Guid:
+    Data1: -1074123154
+    Data2: 1200241143
+    Data3: -1603198041
+    Data4: 32833486
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 888
+--- !u!114 &-8518072805638893615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/MenuVoice.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMODSources/Build/Desktop/MenuVoice.bank
+  Name: MenuVoice
+  StudioPath: bank:/MenuVoice
+  lastModified: 638882800462457636
+  FileSizes:
+  - Name: Desktop
+    Value: 5248896
+  Exists: 1
+--- !u!114 &-8212073980232003334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/Camara
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/Camara
+  Guid:
+    Data1: -1532162190
+    Data2: 1341123882
+    Data3: 1753274042
+    Data4: -100132535
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &-8202337900535043783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/2-plancton ini
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/2-plancton ini
+  Guid:
+    Data1: -919744753
+    Data2: 1141927555
+    Data3: -35605614
+    Data4: -247540161
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 15600
+--- !u!114 &-8138101991765455368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Babilla
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Babilla
+  Guid:
+    Data1: -480214737
+    Data2: 1144312358
+    Data3: 1108799400
+    Data4: -1227788616
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7886
+--- !u!114 &-7843178541908520923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice6.1.4
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice6.1.4
+  Guid:
+    Data1: -1002704322
+    Data2: 1122392220
+    Data3: -1121089899
+    Data4: 1734155041
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16164
+--- !u!114 &-7656593975774533729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/1-ballena
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/1-ballena
+  Guid:
+    Data1: 73938479
+    Data2: 1148590804
+    Data3: 1579408024
+    Data4: 618991138
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 30000
+--- !u!114 &-7430472269140398945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/tiburon click
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/tiburon click
+  Guid:
+    Data1: 1738224837
+    Data2: 1252405644
+    Data3: -1180021887
+    Data4: -69238711
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-7391674302438302656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Boton out
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Boton out
+  Guid:
+    Data1: -1278136864
+    Data2: 1286431196
+    Data3: -488832622
+    Data4: -20047060
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1615
+--- !u!114 &-7347008165569941582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice2.2
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice2.2
+  Guid:
+    Data1: 1351336273
+    Data2: 1251860128
+    Data3: -1437339979
+    Data4: -1152605879
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2800
+--- !u!114 &-7265515710854280919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 4
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 4
+  Guid:
+    Data1: -1848030008
+    Data2: 1245799517
+    Data3: 816663456
+    Data4: 540647856
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19240
+--- !u!114 &-7226769689308591851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/final
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/final
+  Guid:
+    Data1: 547855034
+    Data2: 1214723607
+    Data3: -1438876748
+    Data4: 1687505034
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5780
+--- !u!114 &-7167917454433286043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Botella
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Botella
+  Guid:
+    Data1: 356770411
+    Data2: 1247591606
+    Data3: 795044738
+    Data4: -131891181
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8000
+--- !u!114 &-7028619013229456476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/ManglarVoice.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMODSources/Build/Desktop/ManglarVoice.bank
+  Name: ManglarVoice
+  StudioPath: bank:/ManglarVoice
+  lastModified: 638877452834747444
+  FileSizes:
+  - Name: Desktop
+    Value: 1943616
+  Exists: 1
+--- !u!114 &-7024886316111788746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/5-fin
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/5-fin
+  Guid:
+    Data1: -1658571683
+    Data2: 1202442696
+    Data3: -1261026646
+    Data4: -1472768138
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11800
+--- !u!114 &-6971190053781627262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/Crepusculo
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/Crepusculo
+  Guid:
+    Data1: -1355322135
+    Data2: 1202464849
+    Data3: 159641791
+    Data4: 826127510
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5900
+--- !u!114 &-6929849358469965793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/3-ini
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/3-ini
+  Guid:
+    Data1: -339138131
+    Data2: 1182618515
+    Data3: -91622984
+    Data4: 1539078628
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19776
+--- !u!114 &-6691348670928566421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 7
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 7
+  Guid:
+    Data1: 506400515
+    Data2: 1084200543
+    Data3: -362735180
+    Data4: -340814287
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11800
+--- !u!114 &-6626047443390962930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Esporas V2
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Esporas V2
+  Guid:
+    Data1: 782822244
+    Data2: 1321251930
+    Data3: -983634554
+    Data4: -1238230572
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 53111
+--- !u!114 &-6603784641372536002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 5
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 5
+  Guid:
+    Data1: -283418754
+    Data2: 1172302161
+    Data3: -1710178167
+    Data4: -1441710211
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12759
+--- !u!114 &-6532515708875254322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/3-intro peces
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/3-intro peces
+  Guid:
+    Data1: 48156570
+    Data2: 1088923298
+    Data3: -2132677704
+    Data4: 596305211
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 20000
+--- !u!114 &-6448299226367579096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Peces pasando
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Peces pasando
+  Guid:
+    Data1: -28256188
+    Data2: 1260285743
+    Data3: 515418279
+    Data4: -1689149741
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22126
+--- !u!114 &-6278214299214700636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/6-final todo
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/6-final todo
+  Guid:
+    Data1: 1736318911
+    Data2: 1164098215
+    Data3: -1135484014
+    Data4: 1932655047
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8800
+--- !u!114 &-6124126754557558134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 6
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 6
+  Guid:
+    Data1: 1343594684
+    Data2: 1329872556
+    Data3: -1413503587
+    Data4: -1915505140
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 28899
+--- !u!114 &-6113877706459120008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Plancton
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Plancton
+  Guid:
+    Data1: 720224065
+    Data2: 1312734040
+    Data3: 947896974
+    Data4: 941210339
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 55410
+--- !u!114 &-6101813425388718543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/5-inicio
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/5-inicio
+  Guid:
+    Data1: -2018414133
+    Data2: 1197788994
+    Data3: 671705020
+    Data4: -1188288111
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22000
+--- !u!114 &-6037201527157920720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/mandibula ballena
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/mandibula ballena
+  Guid:
+    Data1: -783104036
+    Data2: 1265328435
+    Data3: 1331048076
+    Data4: 605371056
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8000
+--- !u!114 &-5880728740161878128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/PezDragon
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/PezDragon
+  Guid:
+    Data1: -1839316064
+    Data2: 1296900574
+    Data3: -1083802453
+    Data4: -1259924207
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14629
+--- !u!114 &-5875018122953238511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/totem
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/totem
+  Guid:
+    Data1: 513747097
+    Data2: 1280193685
+    Data3: -863244906
+    Data4: -272747230
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5874536408514350403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice3
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice3
+  Guid:
+    Data1: 667538386
+    Data2: 1223385303
+    Data3: -810595425
+    Data4: 1429302175
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14157
+--- !u!114 &-5600680890010671076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/LLuvia
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/LLuvia
+  Guid:
+    Data1: -1336315616
+    Data2: 1212381415
+    Data3: -791448428
+    Data4: 294210831
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 20000
+--- !u!114 &-5548244138805191546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ambience.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMODSources/Build/Desktop/Ambience.bank
+  Name: Ambience
+  StudioPath: bank:/Ambience
+  lastModified: 638878426992388464
+  FileSizes:
+  - Name: Desktop
+    Value: 33652192
+  Exists: 1
+--- !u!114 &-5512155586666932957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/2-esporas video
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/2-esporas video
+  Guid:
+    Data1: 1893389945
+    Data2: 1258658522
+    Data3: 321409432
+    Data4: 559454564
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 30750
+--- !u!114 &-5442249711166955822
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Nado Ballena
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Nado Ballena
+  Guid:
+    Data1: -1288070816
+    Data2: 1076823755
+    Data3: -2129015419
+    Data4: 1434197988
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14262
+--- !u!114 &-5338431370297769490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/2-esporas inicio
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/2-esporas inicio
+  Guid:
+    Data1: -86681287
+    Data2: 1101305373
+    Data3: 1356412324
+    Data4: -1461796259
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22000
+--- !u!114 &-5247551947975705204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/Manglar
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/Manglar
+  Guid:
+    Data1: 163307237
+    Data2: 1101425898
+    Data3: -611992915
+    Data4: 1576957042
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 33500
+--- !u!114 &-5144227165530076522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/7-final
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/7-final
+  Guid:
+    Data1: 482632712
+    Data2: 1138839639
+    Data3: 503964067
+    Data4: -2119237684
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13500
+--- !u!114 &-5037204134241178015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Home/Barco
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Home/Barco
+  Guid:
+    Data1: -1996862971
+    Data2: 1123124090
+    Data3: 523424688
+    Data4: -984700023
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13769
+--- !u!114 &-5017827495727973452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Agitacion Medusa
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Agitacion Medusa
+  Guid:
+    Data1: -610133882
+    Data2: 1311920606
+    Data3: -553395033
+    Data4: -184084960
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2969
+--- !u!114 &-4984263893906825672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Home/MarLoop
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Home/MarLoop
+  Guid:
+    Data1: 829362445
+    Data2: 1311714422
+    Data3: -1752953464
+    Data4: -2038836300
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 117856
+--- !u!114 &-4956573842171814512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Boton in
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Boton in
+  Guid:
+    Data1: -757817377
+    Data2: 1239156586
+    Data3: -938951781
+    Data4: -1062812186
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1742
+--- !u!114 &-4923535589112337304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/MotorLoop
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/MotorLoop
+  Guid:
+    Data1: -437775631
+    Data2: 1223547194
+    Data3: -1951212868
+    Data4: -187560406
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 28761
+--- !u!114 &-4841783647468171817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/Recompenza
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/Recompenza
+  Guid:
+    Data1: 1449974243
+    Data2: 1341678572
+    Data3: -1529139569
+    Data4: -554086109
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4000
+--- !u!114 &-4732521305064766867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice6.1.1
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice6.1.1
+  Guid:
+    Data1: -55988097
+    Data2: 1157513005
+    Data3: -1107945083
+    Data4: -1242430963
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9100
+--- !u!114 &-4599139246818916673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice6.1.2
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice6.1.2
+  Guid:
+    Data1: 60699797
+    Data2: 1328656004
+    Data3: 1895654306
+    Data4: -423705170
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8100
+--- !u!114 &-4555575421656507158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/VozInOFF/Arrecife/1-monta\xF1a"
+  m_EditorClassIdentifier: 
+  Path: "event:/VozInOFF/Arrecife/1-monta\xF1a"
+  Guid:
+    Data1: 1288760742
+    Data2: 1235971522
+    Data3: 1342379424
+    Data4: 1678891546
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10000
+--- !u!114 &-4551652177665830659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 8
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 8
+  Guid:
+    Data1: 568042331
+    Data2: 1092625143
+    Data3: -210454609
+    Data4: -1595633755
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7775
+--- !u!114 &-4443769241627980298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/Cordillera
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/Cordillera
+  Guid:
+    Data1: -1935580221
+    Data2: 1077538114
+    Data3: 2075329193
+    Data4: -560392299
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6100
+--- !u!114 &-4399916856597558110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/4-lora digestion
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/4-lora digestion
+  Guid:
+    Data1: 1851581785
+    Data2: 1317679610
+    Data3: -1679820390
+    Data4: -2082870070
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16000
+--- !u!114 &-4346943908708086433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Mero
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Mero
+  Guid:
+    Data1: 248757439
+    Data2: 1275756136
+    Data3: 1931834811
+    Data4: -592083143
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19184
+--- !u!114 &-3808180570865189388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 1
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 1
+  Guid:
+    Data1: -1883506772
+    Data2: 1098451096
+    Data3: -1859020646
+    Data4: 992739168
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13800
+--- !u!114 &-3786292383929616624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice3 2
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice3 2
+  Guid:
+    Data1: 533921861
+    Data2: 1316781298
+    Data3: 1474668717
+    Data4: 2048320104
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14250
+--- !u!114 &-3569169091182885564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Ronco
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Ronco
+  Guid:
+    Data1: -1453466454
+    Data2: 1272596100
+    Data3: -2056371304
+    Data4: 1958901613
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5151
+--- !u!114 &-3547497897556298640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Corazon
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Corazon
+  Guid:
+    Data1: -1534590979
+    Data2: 1153126132
+    Data3: 183809152
+    Data4: -2070182522
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5793
+--- !u!114 &-3523247662603238920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/5-redes
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/5-redes
+  Guid:
+    Data1: 1326303837
+    Data2: 1153701711
+    Data3: -428036215
+    Data4: -721896130
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14300
+--- !u!114 &-3475906221126229386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/TypesManglar
+  m_EditorClassIdentifier: 
+  Name: TypesManglar
+  StudioPath: parameter:/TypesManglar
+  Min: 0
+  Max: 5
+  Default: 0
+  ID:
+    data1: 2915894685
+    data2: 730133611
+  Type: 1
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-3452696213172966315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Bagre
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Bagre
+  Guid:
+    Data1: 272238683
+    Data2: 1247326944
+    Data3: 2089408936
+    Data4: 842819229
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7564
+--- !u!114 &-3370481773982813813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 2
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 2
+  Guid:
+    Data1: 263068543
+    Data2: 1295314625
+    Data3: -1974157659
+    Data4: -1872313635
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 29558
+--- !u!114 &-3243547377640087865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/CrecimientoCoral
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/CrecimientoCoral
+  Guid:
+    Data1: -351099400
+    Data2: 1121656373
+    Data3: -97022572
+    Data4: 573492056
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7052
+--- !u!114 &-3218353484979620717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Linternilla
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Linternilla
+  Guid:
+    Data1: -975166442
+    Data2: 1215777541
+    Data3: -1146521682
+    Data4: -1645907670
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 36250
+--- !u!114 &-1704251783440189744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Musica  triste arrecife
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Musica  triste arrecife
+  Guid:
+    Data1: 1407214262
+    Data2: 1301402129
+    Data3: -42576236
+    Data4: -1494665447
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 23961
+--- !u!114 &-1620225664494340940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/Calamar
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/Calamar
+  Guid:
+    Data1: 1785810145
+    Data2: 1334763236
+    Data3: -1701267523
+    Data4: 1251292400
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12369
+--- !u!114 &-1554261476410885677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Home/TotemSale
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Home/TotemSale
+  Guid:
+    Data1: 1295487155
+    Data2: 1174703414
+    Data3: 1337911726
+    Data4: -252938032
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7663
+--- !u!114 &-1233003957918921120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice1
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice1
+  Guid:
+    Data1: 2069069523
+    Data2: 1243509689
+    Data3: 585276342
+    Data4: -2058487346
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters:
+  - {fileID: -851205610646278644}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19000
+--- !u!114 &-1162623847277344434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Musica final arrecife
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Musica final arrecife
+  Guid:
+    Data1: 1517063186
+    Data2: 1094587728
+    Data3: -1750552676
+    Data4: -1673837264
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 30846
+--- !u!114 &-1151629252768822647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/videoPlancton
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/videoPlancton
+  Guid:
+    Data1: -446694079
+    Data2: 1179139597
+    Data3: 1592410511
+    Data4: -1045251699
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16000
+--- !u!114 &-1015814817788748052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 3
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 3
+  Guid:
+    Data1: 567082508
+    Data2: 1215526518
+    Data3: 211596947
+    Data4: 1958119680
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2550
+--- !u!114 &-851205610646278644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ManglarVoice1/TypesManglar
+  m_EditorClassIdentifier: 
+  Name: TypesManglar
+  StudioPath: 
+  Min: 0
+  Max: 5
+  Default: 0
+  ID:
+    data1: 2915894685
+    data2: 730133611
+  Type: 1
+  IsGlobal: 1
+  Labels: []
+  Exists: 1
+--- !u!114 &-737663632043090411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/1-intro
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/1-intro
+  Guid:
+    Data1: -1314350197
+    Data2: 1157083217
+    Data3: 1091065489
+    Data4: -1396149889
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19757
+--- !u!114 &-564562840964665169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/1-cerebro
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/1-cerebro
+  Guid:
+    Data1: -2083069262
+    Data2: 1201159137
+    Data3: 472157824
+    Data4: -1064170347
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5150
+--- !u!114 &-499658420854463359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Musica  crepusculo
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Musica  crepusculo
+  Guid:
+    Data1: -936650584
+    Data2: 1272727832
+    Data3: 1110329759
+    Data4: 1432853917
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 50000
+--- !u!114 &-310352603573615424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/FondoDelMar
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/FondoDelMar
+  Guid:
+    Data1: 210144925
+    Data2: 1146201563
+    Data3: 2051280821
+    Data4: 2015689298
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 105906
+--- !u!114 &-264810909606964991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/PreZonas
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/PreZonas
+  Guid:
+    Data1: -1038600941
+    Data2: 1323750266
+    Data3: -1442522985
+    Data4: -1410991351
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4950
+--- !u!114 &-96967196544926595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/sumergir
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/sumergir
+  Guid:
+    Data1: -1094143834
+    Data2: 1317573596
+    Data3: -522395206
+    Data4: -1869651705
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12359
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 1492119482691524482}
+  - {fileID: -7028619013229456476}
+  - {fileID: 3844978041292749183}
+  - {fileID: -8518072805638893615}
+  - {fileID: 9209322090938187192}
+  - {fileID: -5548244138805191546}
+  - {fileID: 3522944674982950361}
+  EditorEvents:
+  - {fileID: 2991906889008581654}
+  - {fileID: 4205929523770634873}
+  - {fileID: 3273619031822250218}
+  - {fileID: -3786292383929616624}
+  - {fileID: 6881207596670180643}
+  - {fileID: -7347008165569941582}
+  - {fileID: 2055921659394882955}
+  - {fileID: 1684012374746260439}
+  - {fileID: -5874536408514350403}
+  - {fileID: -1233003957918921120}
+  - {fileID: 17261746621839470}
+  - {fileID: 3872053830881888302}
+  - {fileID: -7843178541908520923}
+  - {fileID: -4732521305064766867}
+  - {fileID: 2518680441677009436}
+  - {fileID: -4599139246818916673}
+  - {fileID: 6783883381535319940}
+  - {fileID: -7226769689308591851}
+  - {fileID: -4443769241627980298}
+  - {fileID: -5247551947975705204}
+  - {fileID: -6971190053781627262}
+  - {fileID: -264810909606964991}
+  - {fileID: 2539399992550987396}
+  - {fileID: -5600680890010671076}
+  - {fileID: 1252720214932913604}
+  - {fileID: -8138101991765455368}
+  - {fileID: 3882305265030507979}
+  - {fileID: 8761492065646943416}
+  - {fileID: 2298168558327993212}
+  - {fileID: 4333326013801240810}
+  - {fileID: -3452696213172966315}
+  - {fileID: -8595864446827839400}
+  - {fileID: -3569169091182885564}
+  - {fileID: -4956573842171814512}
+  - {fileID: -7391674302438302656}
+  - {fileID: 7782305091148358230}
+  - {fileID: 8217710982295797161}
+  - {fileID: -5037204134241178015}
+  - {fileID: 7135863245305144228}
+  - {fileID: -4984263893906825672}
+  - {fileID: 364877252460971780}
+  - {fileID: -1554261476410885677}
+  - {fileID: 2205590239651998575}
+  - {fileID: -6691348670928566421}
+  - {fileID: -1015814817788748052}
+  - {fileID: -6603784641372536002}
+  - {fileID: -3370481773982813813}
+  - {fileID: -6124126754557558134}
+  - {fileID: -7265515710854280919}
+  - {fileID: -3808180570865189388}
+  - {fileID: -4551652177665830659}
+  - {fileID: 8671542703764095468}
+  - {fileID: 7874612411182092591}
+  - {fileID: 9170836029679589603}
+  - {fileID: 5828652531378834762}
+  - {fileID: 536094745417309427}
+  - {fileID: -8212073980232003334}
+  - {fileID: 7538865293720811465}
+  - {fileID: -310352603573615424}
+  - {fileID: -5880728740161878128}
+  - {fileID: 353930070892741094}
+  - {fileID: -1620225664494340940}
+  - {fileID: -4841783647468171817}
+  - {fileID: -4923535589112337304}
+  - {fileID: 7147777352593214521}
+  - {fileID: 3715810592006878210}
+  - {fileID: 3725162379733534222}
+  - {fileID: 1987338082048556733}
+  - {fileID: 7015163307093350480}
+  - {fileID: 8335005334004981444}
+  - {fileID: -1162623847277344434}
+  - {fileID: -3218353484979620717}
+  - {fileID: 6988815724179605278}
+  - {fileID: 1047699764704319887}
+  - {fileID: 3647899434691501354}
+  - {fileID: 4655950807512209435}
+  - {fileID: 131315793243258684}
+  - {fileID: -6113877706459120008}
+  - {fileID: -6448299226367579096}
+  - {fileID: -5442249711166955822}
+  - {fileID: -6626047443390962930}
+  - {fileID: 6006170133179539468}
+  - {fileID: -7167917454433286043}
+  - {fileID: 6800050099665811112}
+  - {fileID: 140264424673405757}
+  - {fileID: 7330221969893075578}
+  - {fileID: 5725317004970173680}
+  - {fileID: -5017827495727973452}
+  - {fileID: 8442942345478227021}
+  - {fileID: -5875018122953238511}
+  - {fileID: -96967196544926595}
+  - {fileID: -499658420854463359}
+  - {fileID: -1704251783440189744}
+  - {fileID: -4346943908708086433}
+  - {fileID: 1011851783231121837}
+  - {fileID: -7430472269140398945}
+  - {fileID: 1259201318497056290}
+  - {fileID: -8951864385403868468}
+  - {fileID: 5041150550527107982}
+  - {fileID: 4544775059202585598}
+  - {fileID: -3243547377640087865}
+  - {fileID: -3547497897556298640}
+  - {fileID: -5144227165530076522}
+  - {fileID: 2706002736779580021}
+  - {fileID: -5338431370297769490}
+  - {fileID: 4869420279944679951}
+  - {fileID: 5093045363779494742}
+  - {fileID: -4399916856597558110}
+  - {fileID: -3523247662603238920}
+  - {fileID: -5512155586666932957}
+  - {fileID: 8302097303078018987}
+  - {fileID: 2113651441060388468}
+  - {fileID: -737663632043090411}
+  - {fileID: -6532515708875254322}
+  - {fileID: -4555575421656507158}
+  - {fileID: -564562840964665169}
+  - {fileID: 7661801636018612192}
+  - {fileID: 8351301788409755367}
+  - {fileID: 493226145908485530}
+  - {fileID: 170017706330788783}
+  - {fileID: 7703355533614651006}
+  - {fileID: 3999368437510379741}
+  - {fileID: 8273287653214321409}
+  - {fileID: 159243869057676129}
+  - {fileID: 5881229184981708857}
+  - {fileID: -1151629252768822647}
+  - {fileID: 2678028171704558757}
+  - {fileID: -6037201527157920720}
+  - {fileID: 2689040790497545738}
+  - {fileID: -8202337900535043783}
+  - {fileID: -7656593975774533729}
+  - {fileID: 1432489489606412459}
+  - {fileID: -7024886316111788746}
+  - {fileID: -6929849358469965793}
+  - {fileID: 3920028344416180635}
+  - {fileID: -6278214299214700636}
+  - {fileID: 3638800884581072333}
+  - {fileID: -6101813425388718543}
+  EditorParameters:
+  - {fileID: -3475906221126229386}
+  - {fileID: 8713067528472880319}
+  MasterBanks:
+  - {fileID: 3844978041292749183}
+  StringsBanks:
+  - {fileID: 1492119482691524482}
+  cacheTime: 638882800462457636
+  cacheVersion: 131619
+--- !u!114 &17261746621839470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice2.1
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice2.1
+  Guid:
+    Data1: 2134111196
+    Data2: 1138451507
+    Data3: 927940794
+    Data4: 702019177
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3600
+--- !u!114 &131315793243258684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Nado Mantarraya
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Nado Mantarraya
+  Guid:
+    Data1: -1975646411
+    Data2: 1294621902
+    Data3: 1795522963
+    Data4: -1310321291
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10750
+--- !u!114 &140264424673405757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Cachalote
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Cachalote
+  Guid:
+    Data1: 860555631
+    Data2: 1324983234
+    Data3: -1105426552
+    Data4: 1645628365
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 38000
+--- !u!114 &159243869057676129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/electricidad
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/electricidad
+  Guid:
+    Data1: -747352055
+    Data2: 1094482067
+    Data3: -65312322
+    Data4: 1333490219
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 18400
+--- !u!114 &170017706330788783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/CancionFinal
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/CancionFinal
+  Guid:
+    Data1: -1049862210
+    Data2: 1178096317
+    Data3: -1230544466
+    Data4: -729065657
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 35517
+--- !u!114 &353930070892741094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/RovTarjeta
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/RovTarjeta
+  Guid:
+    Data1: -1798133337
+    Data2: 1167929004
+    Data3: 1271893183
+    Data4: -289232409
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13000
+--- !u!114 &364877252460971780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Home/Sumergir
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Home/Sumergir
+  Guid:
+    Data1: 862833585
+    Data2: 1251657373
+    Data3: -248801908
+    Data4: -597012120
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12359
+--- !u!114 &493226145908485530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/CordilleraIlumindad
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/CordilleraIlumindad
+  Guid:
+    Data1: 354484387
+    Data2: 1089110997
+    Data3: 197331131
+    Data4: -2010248659
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 24283
+--- !u!114 &536094745417309427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/CancionFinal
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/CancionFinal
+  Guid:
+    Data1: -919613422
+    Data2: 1147295321
+    Data3: -932041562
+    Data4: 823064147
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 41600
+--- !u!114 &1011851783231121837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Musica final crepusculo
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Musica final crepusculo
+  Guid:
+    Data1: -1737691196
+    Data2: 1333692166
+    Data3: -128578898
+    Data4: 1148389667
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 43615
+--- !u!114 &1047699764704319887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Fondo del mar loop
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Fondo del mar loop
+  Guid:
+    Data1: -380221660
+    Data2: 1330013901
+    Data3: -1191935566
+    Data4: 1694515402
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 117856
+--- !u!114 &1252720214932913604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/ManglarAmbience
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/ManglarAmbience
+  Guid:
+    Data1: 1738876453
+    Data2: 1305119974
+    Data3: -1450086483
+    Data4: -1780978460
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 240000
+--- !u!114 &1259201318497056290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Pez lora comiendo
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Pez lora comiendo
+  Guid:
+    Data1: 2100669381
+    Data2: 1309577206
+    Data3: 876621474
+    Data4: -1690695810
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13515
+--- !u!114 &1432489489606412459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/3-fin
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/3-fin
+  Guid:
+    Data1: -1817362894
+    Data2: 1290916036
+    Data3: -723054409
+    Data4: 807303556
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16000
+--- !u!114 &1492119482691524482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMODSources/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638881917769549470
+  FileSizes:
+  - Name: Desktop
+    Value: 7282
+  Exists: 1
+--- !u!114 &1684012374746260439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice6 2
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice6 2
+  Guid:
+    Data1: -87358858
+    Data2: 1282856358
+    Data3: 941943959
+    Data4: -2126988963
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11489
+--- !u!114 &1987338082048556733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Fondo del mar loop 2
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Fondo del mar loop 2
+  Guid:
+    Data1: -1121753342
+    Data2: 1314855588
+    Data3: -1097310555
+    Data4: 1657785623
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 117856
+--- !u!114 &2055921659394882955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice6 3
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice6 3
+  Guid:
+    Data1: -1195464874
+    Data2: 1339854551
+    Data3: -1200530778
+    Data4: -1050000300
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19864
+--- !u!114 &2113651441060388468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/4-lora comer
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/4-lora comer
+  Guid:
+    Data1: -31799929
+    Data2: 1254502536
+    Data3: 1586151074
+    Data4: 1690970982
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12000
+--- !u!114 &2205590239651998575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Home/TiburonAcercandose
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Home/TiburonAcercandose
+  Guid:
+    Data1: 1516346335
+    Data2: 1188617848
+    Data3: 1128567216
+    Data4: -460558748
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6000
+--- !u!114 &2298168558327993212
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Guia
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Guia
+  Guid:
+    Data1: 1454180688
+    Data2: 1082339684
+    Data3: -1895161460
+    Data4: 692301121
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 22150
+--- !u!114 &2518680441677009436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice6.1.3
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice6.1.3
+  Guid:
+    Data1: 1926645640
+    Data2: 1289457292
+    Data3: 1606186923
+    Data4: -162849512
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7900
+--- !u!114 &2539399992550987396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Canoa
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Canoa
+  Guid:
+    Data1: 843126540
+    Data2: 1248846802
+    Data3: -96570730
+    Data4: -885885963
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 30802
+--- !u!114 &2678028171704558757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/medusas
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/medusas
+  Guid:
+    Data1: -1845031260
+    Data2: 1186363781
+    Data3: 280588946
+    Data4: 2135030716
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 17226
+--- !u!114 &2689040790497545738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/NadoBallenaCerca
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/NadoBallenaCerca
+  Guid:
+    Data1: 1248228063
+    Data2: 1249583545
+    Data3: 62969785
+    Data4: 1553193467
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 40259
+--- !u!114 &2706002736779580021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/3-intro lora
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/3-intro lora
+  Guid:
+    Data1: 1669939731
+    Data2: 1091164771
+    Data3: -1503091839
+    Data4: -1262350426
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5950
+--- !u!114 &2991906889008581654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/ButtonClick
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/ButtonClick
+  Guid:
+    Data1: 599674859
+    Data2: 1192101194
+    Data3: 1504485528
+    Data4: 272303130
+  Banks:
+  - {fileID: 9209322090938187192}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3273619031822250218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice5
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice5
+  Guid:
+    Data1: 1074424891
+    Data2: 1172033658
+    Data3: -1279051093
+    Data4: -2014968592
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12250
+--- !u!114 &3522944674982950361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Cordillera.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMODSources/Build/Desktop/Cordillera.bank
+  Name: Cordillera
+  StudioPath: bank:/Cordillera
+  lastModified: 638881049287310839
+  FileSizes:
+  - Name: Desktop
+    Value: 1994880
+  Exists: 1
+--- !u!114 &3638800884581072333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/4-medusa
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/4-medusa
+  Guid:
+    Data1: -142756922
+    Data2: 1297137627
+    Data3: -1499509861
+    Data4: -663070265
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16000
+--- !u!114 &3647899434691501354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Carajuelo
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Carajuelo
+  Guid:
+    Data1: 153911339
+    Data2: 1267227435
+    Data3: 818749864
+    Data4: 767520148
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13888
+--- !u!114 &3715810592006878210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/ArbolCrece
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/ArbolCrece
+  Guid:
+    Data1: 632867217
+    Data2: 1305466821
+    Data3: 2068687237
+    Data4: 1501809661
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 18284
+--- !u!114 &3725162379733534222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Home/Logo
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Home/Logo
+  Guid:
+    Data1: 1945119733
+    Data2: 1234812072
+    Data3: -1478159941
+    Data4: 409300880
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5500
+--- !u!114 &3844978041292749183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMODSources/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638881917769489040
+  FileSizes:
+  - Name: Desktop
+    Value: 1452
+  Exists: 1
+--- !u!114 &3872053830881888302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/MenuVoice
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/MenuVoice
+  Guid:
+    Data1: 1172364983
+    Data2: 1263252351
+    Data3: 231160207
+    Data4: 821136811
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 95
+  Length: 24500
+--- !u!114 &3882305265030507979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Jaiba
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Jaiba
+  Guid:
+    Data1: -29481161
+    Data2: 1237055720
+    Data3: -2018680410
+    Data4: -131092238
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19063
+--- !u!114 &3920028344416180635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Crepusculos/2-placnton vid
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Crepusculos/2-placnton vid
+  Guid:
+    Data1: 763119798
+    Data2: 1331630518
+    Data3: -545851463
+    Data4: 1106787153
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 15600
+--- !u!114 &3999368437510379741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/Manglar 2
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/Manglar 2
+  Guid:
+    Data1: -1732531691
+    Data2: 1211463106
+    Data3: 1153405864
+    Data4: -1400746972
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 33500
+--- !u!114 &4205929523770634873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice2.3
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice2.3
+  Guid:
+    Data1: 1817363995
+    Data2: 1179027388
+    Data3: 963323026
+    Data4: -1987124284
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2900
+--- !u!114 &4333326013801240810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Semilla
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Semilla
+  Guid:
+    Data1: -773468332
+    Data2: 1102052814
+    Data3: -204652359
+    Data4: -1948398656
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8400
+--- !u!114 &4544775059202585598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Microplastico
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Microplastico
+  Guid:
+    Data1: 188329681
+    Data2: 1129067288
+    Data3: -503116129
+    Data4: -924767187
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7623
+--- !u!114 &4655950807512209435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Blanqueamiento Loop
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Blanqueamiento Loop
+  Guid:
+    Data1: 703065140
+    Data2: 1210972275
+    Data3: 1456241815
+    Data4: 1076840560
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 19000
+--- !u!114 &4869420279944679951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/6-lora lastimada
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/6-lora lastimada
+  Guid:
+    Data1: 1417619260
+    Data2: 1333703670
+    Data3: -1021680707
+    Data4: -691225119
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10000
+--- !u!114 &5041150550527107982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/tiburon acercandose
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/tiburon acercandose
+  Guid:
+    Data1: 1130437838
+    Data2: 1194511032
+    Data3: -721434457
+    Data4: 913622443
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5093045363779494742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/6-lora plastico
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/6-lora plastico
+  Guid:
+    Data1: -2054722485
+    Data2: 1131557338
+    Data3: 190887557
+    Data4: 1160968567
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10800
+--- !u!114 &5725317004970173680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Arrecife Loop
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Arrecife Loop
+  Guid:
+    Data1: -976532095
+    Data2: 1221150128
+    Data3: -299481163
+    Data4: -1854630103
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 176530
+--- !u!114 &5828652531378834762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 7.1
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 7.1
+  Guid:
+    Data1: 1541864266
+    Data2: 1242522492
+    Data3: -14821244
+    Data4: -388439763
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9839
+--- !u!114 &5881229184981708857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/mordiscoTiburon
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/mordiscoTiburon
+  Guid:
+    Data1: 1376042035
+    Data2: 1203764731
+    Data3: 1322431125
+    Data4: -1131325315
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3792
+--- !u!114 &6006170133179539468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/red
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/red
+  Guid:
+    Data1: 999335017
+    Data2: 1221466788
+    Data3: 1597499316
+    Data4: 1593274095
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2365
+--- !u!114 &6783883381535319940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/Arrecife
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/Arrecife
+  Guid:
+    Data1: -2107313099
+    Data2: 1239980370
+    Data3: -348946546
+    Data4: -1342694370
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4150
+--- !u!114 &6800050099665811112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Tinta
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Tinta
+  Guid:
+    Data1: -704979346
+    Data2: 1123603801
+    Data3: -1906742858
+    Data4: 2031384296
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9000
+--- !u!114 &6881207596670180643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice6
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice6
+  Guid:
+    Data1: 339614541
+    Data2: 1204856501
+    Data3: 790940852
+    Data4: -863182421
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 23600
+--- !u!114 &6988815724179605278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Video
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Video
+  Guid:
+    Data1: -1775538918
+    Data2: 1185821672
+    Data3: -1842408036
+    Data4: 680289886
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 36416
+--- !u!114 &7015163307093350480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Lancha
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Lancha
+  Guid:
+    Data1: 1529292808
+    Data2: 1235720873
+    Data3: 2093909649
+    Data4: -712811605
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 21304
+--- !u!114 &7135863245305144228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Home/TiburonClick
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Home/TiburonClick
+  Guid:
+    Data1: 1541261064
+    Data2: 1246636413
+    Data3: 1820261283
+    Data4: -713124618
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9754
+--- !u!114 &7147777352593214521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/CableSubmarino
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/CableSubmarino
+  Guid:
+    Data1: 237342461
+    Data2: 1158420049
+    Data3: 2136031377
+    Data4: -180861492
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14400
+--- !u!114 &7330221969893075578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Arrecife - Crepusculo/Fondo del mar blanqueado loop
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Arrecife - Crepusculo/Fondo del mar blanqueado loop
+  Guid:
+    Data1: -146944390
+    Data2: 1282846697
+    Data3: 821822894
+    Data4: -799312802
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 79681
+--- !u!114 &7538865293720811465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/PezDiablo
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/PezDiablo
+  Guid:
+    Data1: 2006881417
+    Data2: 1292330384
+    Data3: 667976880
+    Data4: -412935699
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16418
+--- !u!114 &7661801636018612192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/1-ramos
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/1-ramos
+  Guid:
+    Data1: -1592495153
+    Data2: 1287260461
+    Data3: -1644547936
+    Data4: 573488365
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4850
+--- !u!114 &7703355533614651006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Manglar/ManglarVoice4
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Manglar/ManglarVoice4
+  Guid:
+    Data1: -17863573
+    Data2: 1128610383
+    Data3: -1658760011
+    Data4: 2123321627
+  Banks:
+  - {fileID: -7028619013229456476}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5000
+--- !u!114 &7782305091148358230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/BotonRecompenza
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/BotonRecompenza
+  Guid:
+    Data1: 1536873962
+    Data2: 1141172140
+    Data3: -613410650
+    Data4: -1122831978
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &7874612411182092591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 3.4
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 3.4
+  Guid:
+    Data1: 995540876
+    Data2: 1266193685
+    Data3: -1004533349
+    Data4: -128103104
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3741
+--- !u!114 &8217710982295797161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/FondoMar
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/FondoMar
+  Guid:
+    Data1: -1948962351
+    Data2: 1308823001
+    Data3: 875177868
+    Data4: 2114088359
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 56956
+--- !u!114 &8273287653214321409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Menu/Manglar 3
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Menu/Manglar 3
+  Guid:
+    Data1: -855214519
+    Data2: 1075352069
+    Data3: -1017028704
+    Data4: -636525968
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 33500
+--- !u!114 &8302097303078018987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Arrecife/4-lora noche
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Arrecife/4-lora noche
+  Guid:
+    Data1: -1433385594
+    Data2: 1267777621
+    Data3: -1638383981
+    Data4: -851415491
+  Banks:
+  - {fileID: -8518072805638893615}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8000
+--- !u!114 &8335005334004981444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Arrecife/Esporas
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Arrecife/Esporas
+  Guid:
+    Data1: -1310306552
+    Data2: 1105421466
+    Data3: 1661342879
+    Data4: -1197251948
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 20336
+--- !u!114 &8351301788409755367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Cordillera/CalamarVampiro
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Cordillera/CalamarVampiro
+  Guid:
+    Data1: -1507529109
+    Data2: 1275182512
+    Data3: -894955874
+    Data4: -1845754468
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16000
+--- !u!114 &8442942345478227021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Sfx/Crepusculo/Nado Tiburon
+  m_EditorClassIdentifier: 
+  Path: event:/Sfx/Crepusculo/Nado Tiburon
+  Guid:
+    Data1: 892043407
+    Data2: 1292153421
+    Data3: 548509105
+    Data4: -1377895748
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12000
+--- !u!114 &8671542703764095468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 3.2
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 3.2
+  Guid:
+    Data1: 114505594
+    Data2: 1110468831
+    Data3: 1137305527
+    Data4: -367676427
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1940
+--- !u!114 &8713067528472880319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/ManglaresSelect
+  m_EditorClassIdentifier: 
+  Name: ManglaresSelect
+  StudioPath: parameter:/ManglaresSelect
+  Min: 0
+  Max: 4
+  Default: 0
+  ID:
+    data1: 1983256761
+    data2: 208128322
+  Type: 2
+  IsGlobal: 1
+  Labels:
+  - Manglar1
+  - Manglar2
+  - Manglar3
+  - Manglar4
+  - Manglar 5
+  Exists: 1
+--- !u!114 &8761492065646943416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/AmbienceSound/Manglar/Motosierra
+  m_EditorClassIdentifier: 
+  Path: event:/AmbienceSound/Manglar/Motosierra
+  Guid:
+    Data1: 1816432705
+    Data2: 1102161910
+    Data3: 1303621047
+    Data4: 289991539
+  Banks:
+  - {fileID: -5548244138805191546}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 21397
+--- !u!114 &9170836029679589603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VozInOFF/Cordillera/CordilleraVoice 3.3
+  m_EditorClassIdentifier: 
+  Path: event:/VozInOFF/Cordillera/CordilleraVoice 3.3
+  Guid:
+    Data1: 934728682
+    Data2: 1277379472
+    Data3: -686157918
+    Data4: -453546088
+  Banks:
+  - {fileID: 3522944674982950361}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2400
+--- !u!114 &9209322090938187192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMODSources/Build/Desktop/SFX.bank
+  Name: SFX
+  StudioPath: bank:/SFX
+  lastModified: 638778177678464404
+  FileSizes:
+  - Name: Desktop
+    Value: 1802
+  Exists: 1

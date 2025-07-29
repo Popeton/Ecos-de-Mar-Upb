@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 60d883f78ae8ee541adc544b27606cfd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6541
+        width: 3655
+        height: 1385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cf8714aaafdb447b68003cdc892b37
+      internalID: -72111342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_1
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 6503
+        width: 3672
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e762c58e071b82349aae9e1ee7bb8fe3
+      internalID: -1109264203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_2
+      rect:
+        serializedVersion: 2
+        x: 7325
+        y: 6466
+        width: 3560
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba51d2f5917fba4780e614bd9362609
+      internalID: -1006137583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_3
+      rect:
+        serializedVersion: 2
+        x: 10906
+        y: 6497
+        width: 3683
+        height: 1429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465ccc60ba154d478897198e43a6469
+      internalID: 1513621893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_4
+      rect:
+        serializedVersion: 2
+        x: 14600
+        y: 6435
+        width: 3559
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63854b9f7e9c14ba9a7c4f8c0685c0
+      internalID: -2051986847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_5
+      rect:
+        serializedVersion: 2
+        x: 18159
+        y: 6435
+        width: 3657
+        height: 1491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ee7fba39e3a34c96eb957663deaa2
+      internalID: 801487169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_6
+      rect:
+        serializedVersion: 2
+        x: 18159
+        y: 5234
+        width: 3657
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d52b2c14df074e8efd3bf016f4c3b
+      internalID: -1610297805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_7
+      rect:
+        serializedVersion: 2
+        x: 14589
+        y: 5265
+        width: 3611
+        height: 1159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b374029b70a8c44a06293f61804c63
+      internalID: 1110666464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_8
+      rect:
+        serializedVersion: 2
+        x: 10906
+        y: 5234
+        width: 3694
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea297ed19f737b47829a49b90dd23db
+      internalID: -941722331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_9
+      rect:
+        serializedVersion: 2
+        x: 7274
+        y: 5224
+        width: 3611
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba2f35c4984b5d43ad1a8515be3cec5
+      internalID: 487799755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_10
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 5214
+        width: 3653
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41726e107387a924c8f1b575c6bb26b6
+      internalID: -1988135629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5265
+        width: 3631
+        height: 1201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956bc629c91e61347b9ea6bafb7f275d
+      internalID: -449080843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3899
+        width: 3621
+        height: 1315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b773aae1de5a9fc4eb68ab3ed09de03c
+      internalID: 852567945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_13
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 3879
+        width: 3538
+        height: 1314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4b73dac25482448cee2d436cdf325
+      internalID: 1880705180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_14
+      rect:
+        serializedVersion: 2
+        x: 7253
+        y: 3889
+        width: 3601
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c030d42f0dfe14fb2f8bd27dfcb38b
+      internalID: 12315440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_15
+      rect:
+        serializedVersion: 2
+        x: 10906
+        y: 3899
+        width: 3600
+        height: 1325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce9b78b5e5786448be94e6b9886fc0
+      internalID: 860300783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_16
+      rect:
+        serializedVersion: 2
+        x: 14568
+        y: 3962
+        width: 3591
+        height: 1252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2aa68a9229501479c26c7505d751f8
+      internalID: 586240583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_17
+      rect:
+        serializedVersion: 2
+        x: 18180
+        y: 3962
+        width: 3611
+        height: 1262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab609fa35be014439edf050cab304ff
+      internalID: 83746780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_18
+      rect:
+        serializedVersion: 2
+        x: 18180
+        y: 2730
+        width: 3621
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8bf71d7aeb63343824eeef6aab522a
+      internalID: -411034894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_19
+      rect:
+        serializedVersion: 2
+        x: 14537
+        y: 2741
+        width: 3653
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704293571404ed4b84b3d21bdd91db8
+      internalID: -1486802558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_20
+      rect:
+        serializedVersion: 2
+        x: 10885
+        y: 2637
+        width: 3663
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2696fc3c7611b342a0f736e4769093c
+      internalID: -1173778843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_21
+      rect:
+        serializedVersion: 2
+        x: 7243
+        y: 2606
+        width: 3642
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd9669ee47d8a4d9a86ad7e6c7f712
+      internalID: -1808156520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_22
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 2575
+        width: 3612
+        height: 1356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753cf656cd7c6b4a887cb3b2751f8b1
+      internalID: -1520266095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2554
+        width: 3652
+        height: 1366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286dc564e62f46f409b54d5b13f2d682
+      internalID: 1016489301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 3580
+        height: 1242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e16775aa044944cb5e05ef7b3b4b32
+      internalID: -110487322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_25
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1323
+        width: 3663
+        height: 1273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0725ba0263ec69244b8b00bbac5ef442
+      internalID: -705159944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_26
+      rect:
+        serializedVersion: 2
+        x: 7284
+        y: 1344
+        width: 3611
+        height: 1252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd7bd48fa9551843ad265def72cdf3b
+      internalID: -1594285494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_27
+      rect:
+        serializedVersion: 2
+        x: 10895
+        y: 1323
+        width: 3653
+        height: 1314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91e01c2ee437344a616b6eb31df089
+      internalID: -1549790008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_28
+      rect:
+        serializedVersion: 2
+        x: 14548
+        y: 1323
+        width: 3570
+        height: 1324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e4695417b90148b2b3d8474a1f3fa
+      internalID: 2146572501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_29
+      rect:
+        serializedVersion: 2
+        x: 18138
+        y: 1323
+        width: 3674
+        height: 1324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96701d37102399c418a87459ea58a513
+      internalID: -1044202065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_30
+      rect:
+        serializedVersion: 2
+        x: 18121
+        y: 1
+        width: 3683
+        height: 1337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce1a5ff4ae4abe44b591eb8f900bf6d
+      internalID: 495025610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_31
+      rect:
+        serializedVersion: 2
+        x: 14563
+        y: 1
+        width: 3541
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f52dfb3034aa4788d087fe1cff085
+      internalID: 1375729503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_32
+      rect:
+        serializedVersion: 2
+        x: 10925
+        y: 28
+        width: 3647
+        height: 1292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b458d602960f34b4c8f3c36bd0d10a49
+      internalID: -392309001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_33
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 19
+        width: 3594
+        height: 1310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434db7fc99aa0540bb3c37e38cd2007
+      internalID: 1701981733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_34
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 46
+        width: 3656
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50241c1a3cc6f7b46bf27b135f9f8714
+      internalID: 265832521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CALAMARGIGANTE_SPRITE_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 3639
+        height: 1292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869486e5dffc04149894380e3118b7c4
+      internalID: -577545269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b704b020773883b4e8210a92c2ccff7f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CALAMARGIGANTE_SPRITE_0: -72111342
+      CALAMARGIGANTE_SPRITE_1: -1109264203
+      CALAMARGIGANTE_SPRITE_10: -1988135629
+      CALAMARGIGANTE_SPRITE_11: -449080843
+      CALAMARGIGANTE_SPRITE_12: 852567945
+      CALAMARGIGANTE_SPRITE_13: 1880705180
+      CALAMARGIGANTE_SPRITE_14: 12315440
+      CALAMARGIGANTE_SPRITE_15: 860300783
+      CALAMARGIGANTE_SPRITE_16: 586240583
+      CALAMARGIGANTE_SPRITE_17: 83746780
+      CALAMARGIGANTE_SPRITE_18: -411034894
+      CALAMARGIGANTE_SPRITE_19: -1486802558
+      CALAMARGIGANTE_SPRITE_2: -1006137583
+      CALAMARGIGANTE_SPRITE_20: -1173778843
+      CALAMARGIGANTE_SPRITE_21: -1808156520
+      CALAMARGIGANTE_SPRITE_22: -1520266095
+      CALAMARGIGANTE_SPRITE_23: 1016489301
+      CALAMARGIGANTE_SPRITE_24: -110487322
+      CALAMARGIGANTE_SPRITE_25: -705159944
+      CALAMARGIGANTE_SPRITE_26: -1594285494
+      CALAMARGIGANTE_SPRITE_27: -1549790008
+      CALAMARGIGANTE_SPRITE_28: 2146572501
+      CALAMARGIGANTE_SPRITE_29: -1044202065
+      CALAMARGIGANTE_SPRITE_3: 1513621893
+      CALAMARGIGANTE_SPRITE_30: 495025610
+      CALAMARGIGANTE_SPRITE_31: 1375729503
+      CALAMARGIGANTE_SPRITE_32: -392309001
+      CALAMARGIGANTE_SPRITE_33: 1701981733
+      CALAMARGIGANTE_SPRITE_34: 265832521
+      CALAMARGIGANTE_SPRITE_35: -577545269
+      CALAMARGIGANTE_SPRITE_4: -2051986847
+      CALAMARGIGANTE_SPRITE_5: 801487169
+      CALAMARGIGANTE_SPRITE_6: -1610297805
+      CALAMARGIGANTE_SPRITE_7: 1110666464
+      CALAMARGIGANTE_SPRITE_8: -941722331
+      CALAMARGIGANTE_SPRITE_9: 487799755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
